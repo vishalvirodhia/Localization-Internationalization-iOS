@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Localization-Internationalization
+
+  Created by Vishal on 27/11/16.
+  Copyright © 2016 vishalvirodhia. All rights reserved.
+*/
+
+"labelText" = "Localization text";
+"buttonTitle" = "Working ?";
+"imageName" = "India";
+
